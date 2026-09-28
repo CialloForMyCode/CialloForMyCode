@@ -1,0 +1,4 @@
+## Visual Studio / build output
+.vs/
+bin/
+obj/
