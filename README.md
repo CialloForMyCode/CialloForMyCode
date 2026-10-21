@@ -77,6 +77,6 @@ File an [issue](https://github.com/CialloForMyCode/OCC-s-Mission-Goals/issues) o
 
 <div align="center">
 
-**No bugs, no bugs, no bugs...**
+**token来✋😡🤚token来✋😡🤚token来✋😡🤚**
 
 </div>
