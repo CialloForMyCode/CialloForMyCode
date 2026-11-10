@@ -63,11 +63,13 @@ ONC has almost no dependencies in bare-metal environments, and it can compile im
 - [x] Generics system
 - [x] P/Invoke (mostly done, not guaranteed to fully work)
 - [x] Code generation for the x86_16 bare-metal environment
-- [ ] Code generation for the x86_32 / x64 bare-metal environments
+- [x] Code generation for the x86_32 / x64 bare-metal environments
 - [x] Code generation for x86_32 / x64 Windows (partly done, not guaranteed to fully work)
 - [ ] Code generation for Linux
 - [ ] Code generation for other embedded environments
 - [ ] Base class library (partly done, mostly unusable)
+- [x] Math library
+- [ ] WinAPI library (partly done, mostly unusable)
 
 ---
 
